@@ -31,7 +31,7 @@
     "@mui/icons-material": "^5.10.14",
     "@mui/joy": "^5.0.0-alpha.54",
     "@mui/material": "^5.10.14",
-    "@mui/styles": "^5.10.10",
+    "@mui/styles": "^5.10.14",
     "@mui/utils": "^5.10.14",
     "@trendmicro/react-interpolate": "^0.5.5",
     "@types/lodash": "^4.14.188",
